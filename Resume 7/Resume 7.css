@@ -1,0 +1,10 @@
+body {
+    font-size: 14px;
+    color: red;
+  }
+h1 {
+    color: yellow;
+    background-color: blue;
+  }
+.name{font-family: Arial, Helvetica, sans-serif; color: aqua;}
+
