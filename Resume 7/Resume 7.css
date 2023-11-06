@@ -7,4 +7,22 @@ h1 {
     background-color: blue;
   }
 .name{font-family: Arial, Helvetica, sans-serif; color: aqua;}
+h2 {
+    color: black;
+    font-weight: bold;
+  }
+.name{font-family: Arial, Helvetica, sans-serif; color: aqua;}
 
+input[type=text]:focus {
+  border: 3px solid blue;
+}
+textarea {
+  width: 100%;
+  height: 100px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid blue;
+  border-radius: 4px;
+  background-color: white;
+  resize: none;
+}
